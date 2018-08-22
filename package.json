@@ -1,0 +1,24 @@
+{
+  "name": "24-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js",
+    "test:watch": "mocha -w index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karoootka/24-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karoootka/24-tests/issues"
+  },
+  "homepage": "https://github.com/Karoootka/24-tests#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
